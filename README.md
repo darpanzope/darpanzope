@@ -217,7 +217,12 @@ $ sudo hire-me                          # the actual point of the site
 </p>
 
 <p align="center">
-  <img alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=darpanzope&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+  <img alt="Profile summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=darpanzope&theme=github_dark" width="100%" />
+</p>
+
+<p align="center">
+  <img alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=darpanzope&theme=github_dark" />
+  <img alt="Most committed language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=darpanzope&theme=github_dark" />
 </p>
 
 <p align="center">
